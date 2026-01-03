@@ -34,3 +34,12 @@ This project focuses on the design and implementation of a **Robust Fuzzy-PID Co
 This project utilizes core dynamic models and simulation frameworks adapted from the following source:
 * **Original Repository:** [dch33/quad-sim](https://github.com/dch33/quad-sim)
 * **Description:** Provides the fundamental 6-DOF Quadcopter dynamic modeling and MATLAB/Simulink visualization blocks.
+
+## 📜 License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+### Third-Party Licenses
+The quadcopter dynamic modeling and simulation framework used in this project is based on **Quad-Sim**.
+* **Quad-Sim** is licensed under the **GNU Lesser General Public License (LGPL) v3**.
+* Original source: [dch33/quad-sim](https://github.com/dch33/quad-sim)
+

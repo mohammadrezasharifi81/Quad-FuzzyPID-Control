@@ -29,3 +29,8 @@ This project focuses on the design and implementation of a **Robust Fuzzy-PID Co
 * **Control Strategy:** Hybrid Fuzzy-PID for adaptive gain tuning.
 * **Scenarios:** Tested on Circle, Figure-8, and Diamond trajectories.
 * **Performance:** Validated using MSE and ITAE metrics, showing superior stability compared to standard PID.
+
+## 📚 References & Acknowledgments
+This project utilizes core dynamic models and simulation frameworks adapted from the following source:
+* **Original Repository:** [dch33/quad-sim](https://github.com/dch33/quad-sim)
+* **Description:** Provides the fundamental 6-DOF Quadcopter dynamic modeling and MATLAB/Simulink visualization blocks.
